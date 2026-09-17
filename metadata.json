@@ -1,0 +1,6 @@
+{
+  "name": "Plastic-Free College Campaign",
+  "description": "Official portal for the Plastic-Free College Campaign presented in WEBSPRINT 2026 by Innov8 | CSD, AITS Hackathon 2026, featuring smart plastic collection, reusable alternatives, reward points, and live sustainability analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
